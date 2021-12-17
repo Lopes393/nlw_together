@@ -21,10 +21,10 @@ Projeto desenvolvido com as seguintes tecnologias:
 </ul>
 
 <div align="center" style="display: flex; flex-direction: row">
-  <img alt="LETMEASK" src="img/letmeask_1.png" width="250px" style="margin: 30px 30px"/>
-  <img alt="LETMEASK" src="img/letmeask_2.png" width="250px">
+  <img alt="LETMEASK" src="img/letmeask_1.png" width="350px" style="margin: 30px 30px"/>
+  <img alt="LETMEASK" src="img/letmeask_2.png" width="350px">
 </div>
 <div align="center" style="display: flex; flex-direction: row">
-  <img alt="LETMEASK" src="img/letmeask_3.png" width="250px" style="margin: 0 30px"/>
-  <img alt="LETMEASK" src="img/letmeask_4.png" width="250px">
+  <img alt="LETMEASK" src="img/letmeask_3.png" width="350px" style="margin: 0 30px"/>
+  <img alt="LETMEASK" src="img/letmeask_4.png" width="350px">
 </div>
